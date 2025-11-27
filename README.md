@@ -6,9 +6,9 @@
 
 Система представляет собой **ИИ-интервьюера**, который проводит оценку кандидатов по навыкам в режиме реального времени.
 
-🔗 [Презентация проекта]([https://drive.google.com/drive/folders/1t6tV52RgLtmFF9tnAErYQNYFj0dqNZVt?usp=drive_link](https://drive.google.com/drive/folders/1t6tV52RgLtmFF9tnAErYQNYFj0dqNZVt?usp=sharing))
+🔗 [Презентация проекта](https://drive.google.com/drive/folders/1t6tV52RgLtmFF9tnAErYQNYFj0dqNZVt?usp=sharing)
 
-🔗 [Диаграммы компонентов и бизнес процесса]([https://drive.google.com/drive/folders/1t6tV52RgLtmFF9tnAErYQNYFj0dqNZVt?usp=drive_link](https://drive.google.com/drive/folders/1VPmlaCoGJA-_U4OIOciQoX_SC59hOJ8Y?usp=sharing))
+🔗 [Диаграммы компонентов и бизнес процесса](https://drive.google.com/drive/folders/1VPmlaCoGJA-_U4OIOciQoX_SC59hOJ8Y?usp=sharing)
 
 
 **ВНИМАНИЕ!**
