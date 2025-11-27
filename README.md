@@ -69,7 +69,7 @@ SCIBOX_API_KEY=...
 ### 🔧 Запуск проекта
 
 ```bash
-python [main.py](http://main.py/)
+python main.py
 ```
 
 ## 🧱 Архитектура системы
